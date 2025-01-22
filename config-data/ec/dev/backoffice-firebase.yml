@@ -23,4 +23,4 @@ eureka:
     serviceUrl:
       defaultZone: http://${EUREKA_USER}:${EUREKA_PASSWORD}@${EUREKA_HOSTNAME}:${EUREKA_PORT}/eureka
 firebase:
-  project: ${FIREBASE_PROJECT}
+  project: uphone-f6e20-firebase-adminsdk-v5175-5081d9cfb1.json
