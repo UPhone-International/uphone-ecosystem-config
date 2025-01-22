@@ -23,5 +23,5 @@ eureka:
     serviceUrl:
       defaultZone: http://${EUREKA_USER}:${EUREKA_PASSWORD}@${EUREKA_HOSTNAME}:${EUREKA_PORT}/eureka
 
-firebase
+firebase:
   project: ${FIREBASE_PROJECT}
